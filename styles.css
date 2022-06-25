@@ -1,0 +1,43 @@
+/*body{
+  background-color:
+}*/
+
+body{
+  text-align: center;
+}
+h1{
+  font-family: 'Rancho', cursive;
+font-family: 'Rock Salt', cursive;
+}
+
+.top-container{
+  background-color: #C7D36F;
+
+  position: relative;
+  padding-top: 100px;
+
+
+
+
+}
+.top-cloud{
+  position: absolute ;
+  right: 300px;
+  top: 50px;
+
+}
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+  top: 200px;
+}
+
+.my-img{
+  border-radius:100%;
+  width: 300px;
+  height: 300px;
+}
+.lists{
+  position : absolute;
+  left: 0;
+}
